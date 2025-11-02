@@ -1,3 +1,7 @@
+![ci-cd.png](ci-cd.png)
+
+![gitlab-and-github.png](gitlab-and-github.png)
+
 # ci-showcase
 
 Minimal Python Flask app with CI/CD pipelines on **GitHub Actions** and **GitLab CI** - designed to showcase clean 
